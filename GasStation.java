@@ -6,7 +6,7 @@ public class GasStation {
 
         do {
            if(gas[i] - cost[i] >= 0){ // if gas is enough for the next station start driving.
-               tank += gas[i];
+               tank += gas[i]; // fills gas from this station.
                System.out.println("Driving from station at " + "(index " + i + ").");
                System.out.println();
 
@@ -55,7 +55,7 @@ public class GasStation {
 
     /*   int[] gas = {2,3,4};
         int[] cost = {3,4,3}; */
-        
+
         GasStation gasStation = new GasStation();
         int value = gasStation.canCompleteCircuit(gas, cost);
         System.out.println(value);
