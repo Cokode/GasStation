@@ -32,4 +32,4 @@ LINE (40) if I make a round circuit stop the car. regardless.
 
 LINE (46-62) CONTAINS TEXT 4 CASES COMMENTED OUT. EACH CAN BE DE-COMMENTED AND RUN.
 
-Thank you for viwing my project. If you think I can improve this algorithm pls let me know. email me at my.mail66x@yahoo.com
+Thank you for viwing my project. If you think I can improve this algorithm pls let me know. email me at my.mail66@yahoo.com
